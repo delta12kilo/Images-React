@@ -1,0 +1,10 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: black;
+}
+.heading h1, p{
+    color: blueviolet;
+}
